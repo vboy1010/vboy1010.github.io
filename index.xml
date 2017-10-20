@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>SiteTitle</title>
+    <link>https://vboy1010.github.io/</link>
+    <description>Recent content on SiteTitle</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <lastBuildDate>Fri, 20 Oct 2017 17:24:21 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vboy1010.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>这是一个测试</title>
-      <link>http://example.org/news/1/</link>
+      <link>https://vboy1010.github.io/news/1/</link>
       <pubDate>Fri, 20 Oct 2017 17:24:21 +0800</pubDate>
       
-      <guid>http://example.org/news/1/</guid>
+      <guid>https://vboy1010.github.io/news/1/</guid>
       <description>大沙发上打法的是否</description>
     </item>
     

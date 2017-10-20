@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/news/1/</loc>
+    <loc>https://vboy1010.github.io/news/1/</loc>
     <lastmod>2017-10-20T17:24:21+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/blog/</loc>
-    <lastmod>2017-10-20T17:24:21+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
+    <loc>https://vboy1010.github.io/tags/blog/</loc>
     <lastmod>2017-10-20T17:24:21+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/news/</loc>
+    <loc>https://vboy1010.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vboy1010.github.io/news/</loc>
     <lastmod>2017-10-20T17:24:21+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://vboy1010.github.io/</loc>
     <lastmod>2017-10-20T17:24:21+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/tech/</loc>
+    <loc>https://vboy1010.github.io/tags/</loc>
     <lastmod>2017-10-20T17:24:21+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/test/</loc>
+    <loc>https://vboy1010.github.io/categories/tech/</loc>
+    <lastmod>2017-10-20T17:24:21+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vboy1010.github.io/tags/test/</loc>
     <lastmod>2017-10-20T17:24:21+08:00</lastmod>
     <priority>0</priority>
   </url>
